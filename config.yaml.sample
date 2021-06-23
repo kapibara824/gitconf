@@ -1,0 +1,5 @@
+name: <YOUR NAME>
+email: <YOUR EMAIL ADDRESS>
+signingkey: <YOUR GPG KEY>
+gpgsign: true
+program: gpg
